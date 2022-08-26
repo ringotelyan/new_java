@@ -1,7 +1,7 @@
 
 public class Human {
-	public static class HumanLeg {
-		public static void kick() {
+	public class HumanLeg {
+		public void kick() {
 			System.out.println("蹴る");
 		}
 	}

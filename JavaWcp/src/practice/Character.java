@@ -1,5 +1,6 @@
 package practice;
 
-public class Character {
+public interface Character {
+	public int attack();
 
 }

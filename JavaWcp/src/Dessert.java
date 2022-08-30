@@ -31,5 +31,4 @@ public enum Dessert {
 	}
 	// 宣伝文句を出力する中小メソッド。各インスタンスで実装する
 	abstract void advertise();
-	
 }
